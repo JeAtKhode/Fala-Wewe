@@ -1,7 +1,6 @@
 <h1>FALA WEWE African Apparel Website</h1>
 <br>
 <h2>Project Overview</h2>
-<br>
 This project was part of an assignment during my second year of study in Software Engineering at Wintec. 
 We worked in pairs to choose a concept, design, and finally build a fully functional website, which we later presented to a client. 
 Our chosen concept was FALA WEWE, an e-commerce website dedicated to selling African-inspired apparel, showcasing authentic African designs to a wider audience.
