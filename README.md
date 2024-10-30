@@ -1,5 +1,4 @@
-<h1>FALA WEWE</h1> 
-<h1>African Apparel Website</h1>
+<h1>FALA WEWE - African Apparel Website</h1>
 <h2>Project Overview</h2>
 This project was part of an assignment during my second year of study in Software Engineering at Wintec. 
 We worked in pairs to choose a concept, design, and finally build a fully functional website, which we later presented to a client. 
