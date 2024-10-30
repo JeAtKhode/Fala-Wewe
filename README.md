@@ -11,14 +11,14 @@ Our task was to build a clean, modern, and easy-to-navigate platform where users
 <h2>Features</h2>
 The website includes the following sections:
 
-Home: Welcoming landing page with introductory information.
-Shop: Display of available apparel items with images, prices, and descriptions.
-About Us: Background on the business and our inspiration behind FALA WEWE.
+Home: Welcoming landing page with introductory information.<br>
+Shop: Display of available apparel items with images, prices, and descriptions.<br>
+About Us: Background on the business and our inspiration behind FALA WEWE.<br>
 Contact Us: Simple contact form and business contact information.
 
 <h2>Technologies Used</h2>
-Front-End: HTML, CSS, JavaScript
-Version Control: Git and GitHub
+Front-End: HTML, CSS, JavaScript<br>
+Version Control: Git and GitHub<br>
 Testing: Manual testing on multiple devices and browsers
 
 <h2>Learning Outcomes</h2>
