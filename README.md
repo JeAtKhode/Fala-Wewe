@@ -1,4 +1,5 @@
 FALA WEWE African Apparel Website
+<br>
 Project Overview
 This project was part of an assignment during my second year of study in Software Engineering at Wintec. 
 We worked in pairs to choose a concept, design, and finally build a fully functional website, which we later presented to a client. 
