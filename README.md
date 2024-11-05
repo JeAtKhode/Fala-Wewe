@@ -1,5 +1,14 @@
 <h1>FALA WEWE - African Apparel Website</h1>
 
+<Demo>
+<img width="1680" alt="Screenshot 2024-11-05 at 6 48 53 PM" src="https://github.com/user-attachments/assets/2ae1b522-d16a-4d6f-8d1e-9aae4219f1eb">
+<img width="1680" alt="Screenshot 2024-11-05 at 6 49 07 PM" src="https://github.com/user-attachments/assets/cca59542-7936-4231-a490-8079b22d3de7">
+<img width="1680" alt="Screenshot 2024-11-05 at 6 49 19 PM" src="https://github.com/user-attachments/assets/a9f6437d-cca4-4eae-b5bc-67ea63a65ae7">
+<img width="1680" alt="Screenshot 2024-11-05 at 6 49 31 PM" src="https://github.com/user-attachments/assets/5e22bc31-462a-4d2b-97f0-3269f80955d2">
+<img width="1680" alt="Screenshot 2024-11-05 at 6 49 37 PM" src="https://github.com/user-attachments/assets/af5c12f5-0e4a-4b24-8d3c-d091381a4541">
+
+
+
   <h2>Project Overview</h2>
   <p>
     This project was part of an assignment during my second year of study in Software Engineering at Wintec. 
